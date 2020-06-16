@@ -1,2 +1,2 @@
 # p2pregister
-Distributed Ledger with Ark
+Distributed Ledger for bicycle on Ethereum network
